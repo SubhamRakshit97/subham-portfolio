@@ -1,5 +1,5 @@
  body {
-    font-family: "arial", sans-serif;
+    font-family: "Times New Roman", sans-serif;
     
 }
 
@@ -11,7 +11,7 @@ title-icon {
  
 
 #font-primary {
-    color: #00abae;
+    color: #cfaa15;
    
 }
  
@@ -23,8 +23,7 @@ title-icon {
 }
 
 p {
-    font-size: 14px;
-    
+    font-size: 14px;  
     color: grey;
     font-weight: 600;
 }
@@ -92,14 +91,14 @@ a.font-black {
     /* width: 600px; */
     width:80%;
     margin-bottom: auto;
-    border:20px solid #00abae;
+    border:20px solid gray;
     min-width:400px;
     /* padding-bottom:auto; */
 }
 
 #about a{
     font-size: 15px;
-    background-color: #00abae;
+    background-color: #cfaa15;
     border:none;
 }
 
@@ -129,7 +128,9 @@ a.font-black {
     padding:auto;
     
 }
-
+#about .named .myname{
+    color: ;
+}
 
 .row{
     /* padding: 2%; */
@@ -143,7 +144,7 @@ a.font-black {
     font-weight: bold;
     font-size: 25px;
     font-weight: 600;
-    color:gray;
+    color:grey;
 }
  #project .card-body{
     min-width: 100%;
@@ -165,7 +166,7 @@ span{
 
 
 .btn{
-    background-color:#00abae;
+    background-color:#cfaa15;
     border:none;
 }
 .col{
@@ -196,16 +197,9 @@ video{
     
 }
 
-
-
-
-
-
-
-
-
-
-
+.ido .idohead{
+    text-align: center;
+}
 
 
 .ido{
@@ -221,7 +215,7 @@ video{
     padding-right: 30px;
     padding-top: 80px;
     padding-bottom: 80px;
-    
+    text-align: justify;
 }
 
 
